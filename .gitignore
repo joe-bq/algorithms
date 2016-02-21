@@ -1,0 +1,10 @@
+*.dll
+*.exe
+*.pdb
+*.suo
+*.log
+bin/
+obj/
+Debug/
+.git/
+tmp/
